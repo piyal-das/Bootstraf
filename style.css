@@ -19,3 +19,34 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.SmallItem h1{
+        color: white;
+        
+}
+.SmallItem img{
+    width: 100px;
+}
+.watch{
+    background-color: orange;
+}
+.bag{
+    background-color: #ff136f;
+}
+.shoes{
+    background-color: green;
+}
+.watch, .bag, .shoes{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.loginArea{
+    height: 300px;
+}
+footer{
+    text-align: center;
+}
